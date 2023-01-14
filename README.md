@@ -1,0 +1,7 @@
+- Track Companies/ Companies you are intrested in
+- Get comparison with 52H
+- Based on Current Prices being low, check for recommendations
+- A csv file will be generated
+- Note: 
+    - To be used for fundamental analysis only.
+    - 
